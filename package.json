@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "dotenv": "8.2.0",
+    "netlify-cli": "^17.11.0",
     "nodemon": "2.0.2"
   }
 }
