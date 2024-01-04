@@ -36,7 +36,7 @@ module.exports = {
             
         }
        
-        return resp.json(dev);
+        return resp.json(dev)
     },
     async update(req,resp) {
         const { github_username, techs, longitude, latitude, sync_github } = req.body;
